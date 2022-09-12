@@ -128,7 +128,6 @@ Event (qualy, practice, race) template is available within `tempaltes/event.json
 
 ```json
 {
-    "_comment": " https://www.acc-wiki.info/wiki/Server_Configuration#event.json",
     "track": "monza",
     "preRaceWaitingTimeSeconds": 180,
     "sessionOverTimeSeconds": 185,
@@ -172,7 +171,7 @@ Server name and settings template is available within `tempaltes/server_settings
 {
     "serverName": "Name of the server",
     "adminPassword": "",
- "carGroup": "FreeForAll",
+    "carGroup": "FreeForAll",
     "trackMedalsRequirement": 0,
     "safetyRatingRequirement": 45,
     "racecraftRatingRequirement": -1,
