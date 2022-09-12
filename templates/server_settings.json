@@ -1,0 +1,13 @@
+{
+    "serverName": "Name of the server",
+    "adminPassword": "",
+	"carGroup": "FreeForAll",
+    "trackMedalsRequirement": 0,
+    "safetyRatingRequirement": 45,
+    "racecraftRatingRequirement": -1,
+    "dumpLeaderboards": 1,
+    "maxCarSlots": 12,
+    "password": "",
+    "spectatorPassword": "",
+    "configVersion": 1
+}
