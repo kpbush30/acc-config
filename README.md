@@ -2,8 +2,6 @@
 
 ## Description
 
----
-
 A repository of ACC related configurations, this includes:
 
 - Car Setups
@@ -15,8 +13,6 @@ Some of the details presented contian information gathered with the help of cont
 - [ACC Wiki](https://www.acc-wiki.info/)
 
 ## Car Setups
-
----
 
 The folder structure for each car and track are created within the project.
 
@@ -102,11 +98,7 @@ alpine_a110_gt4
 
 </details>
 
----
-
 ## Sever Settings
-
----
 
 ACC server settings and templates are provided to assist with event creation. All settings are documented unofficially at [ACC Wiki](https://www.acc-wiki.info/wiki/Server_Configuration).
 
