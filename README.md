@@ -2,10 +2,10 @@
 
 ## Description
 
-A repository of ACC related configurations, this includes:
+A repository of ACC related configurations, currently this includes:
 
 - Car Setups
-- Server Settings
+- Server Setting Tempaltes
 
 Some of the details presented contian information gathered with the help of contributors to ACC wiki and Race Department
 
